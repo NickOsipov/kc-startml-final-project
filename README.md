@@ -1,4 +1,4 @@
-# Dev environment fo KC StartML Final Project
+# Dev environment for KC StartML Final Project
 
 ## Installation
 
