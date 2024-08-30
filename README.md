@@ -20,4 +20,4 @@
     bash run.sh
     ```
 2. Go to browser:  
-    http://localhost:8080/
+    http://localhost:8000/
