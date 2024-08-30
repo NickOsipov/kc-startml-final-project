@@ -7,11 +7,13 @@
 
 ## Run
 
+0. Run Docker Desktop
+
 1. Start project: 
     
     **Windows**
     ```
-    run.cmd
+    ./run.cmd
     ```     
     **Linux/Mac**
     ```bash
