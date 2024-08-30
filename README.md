@@ -2,14 +2,17 @@
 
 ## Installation
 
-0. Install Docker Desktop: https://www.docker.com/products/docker-desktop/
-1. Start project:
-    Windows
+0. Install Docker Desktop:  
+    https://www.docker.com/products/docker-desktop/  
+1. Start project: 
+    
+    **Windows**
     ```
     run.cmd
-    ```
-    Linux/Mac
+    ```     
+    **Linux/Mac**
     ```bash
     bash run.sh
     ```
-2. Go to browser: http://localhost:8080/
+2. Go to browser:  
+    http://localhost:8080/
