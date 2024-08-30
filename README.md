@@ -2,8 +2,11 @@
 
 ## Installation
 
-0. Install Docker Desktop:  
+- Install Docker Desktop:  
     https://www.docker.com/products/docker-desktop/  
+
+## Run
+
 1. Start project: 
     
     **Windows**
