@@ -1,2 +1,7 @@
 __pycache__
 .git
+venv
+.venv
+.idea
+.vscode
+.DS_Store
