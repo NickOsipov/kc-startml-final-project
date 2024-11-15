@@ -2,8 +2,7 @@
 
 ## Installation
 
-- Install Docker Desktop:  
-    https://www.docker.com/products/docker-desktop/  
+Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ## Run
 
