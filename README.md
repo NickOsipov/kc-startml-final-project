@@ -8,7 +8,7 @@ Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 Clone project from GitHub by SSH:
 ```bash
-git clone github.com:NickOsipov/kc-startml-final-project.git
+git clone git@github.com:NickOsipov/kc-startml-final-project.git
 ```
 
 Go to project directory:
