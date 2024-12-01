@@ -29,6 +29,7 @@ docker-compose up -d --build
 http://localhost:8000/
 ```
 3. **Working process...**
+Add your code to `src` directory.
 
 4. Stop project: 
 ```bash
