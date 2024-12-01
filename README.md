@@ -4,18 +4,33 @@
 
 Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
+## Clone project
+
+Clone project from GitHub by SSH:
+```bash
+git clone github.com:NickOsipov/kc-startml-final-project.git
+```
+
+Go to project directory:
+```bash
+cd kc-startml-final-project
+```
+
 ## Run
 
-0. Run Docker Desktop
+0. Run installed Docker Desktop
 
 1. Start project: 
-    ```bash
-    docker-compose up -d --build
-    ```
+```bash
+docker-compose up -d --build
+```
 2. Go to browser:  
-    http://localhost:8000/
+```bash
+http://localhost:8000/
+```
+3. **Working process...**
 
-3. Stop project: 
-    ```bash
-    docker-compose down
-    ```
+4. Stop project: 
+```bash
+docker-compose down
+```
