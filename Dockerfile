@@ -18,6 +18,6 @@ WORKDIR /app
 COPY --from=build /usr/local/lib/python3.8/site-packages /usr/local/lib/python3.8/site-packages
 COPY --from=build /usr/local/bin /usr/local/bin
 
-COPY app.py app.py
+COPY src src
 
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+CMD ["uvicorn", "src.app:app", "--host", "0.0.0.0", "--port", "8000"]

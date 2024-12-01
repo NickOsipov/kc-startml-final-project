@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: kc-startml-final-project:latest
+    container_name: kc-startml-final-project
+    ports:
+      - 8000:8000
+    volumes:
+      - type: bind
+        source: src
+        target: /app/src
+    command: ["uvicorn", "src.app:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
