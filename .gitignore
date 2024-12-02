@@ -7,3 +7,4 @@ venv
 *.csv
 *.log
 *.parquet
+buf
